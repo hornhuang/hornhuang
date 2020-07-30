@@ -6,10 +6,15 @@ https://img-blog.csdnimg.cn/20200730202603404.png
 
 <table><tbody>
     <tr>
-        <td><font color="Hotpink">此处实现方法利用 CSDN-markdown 内嵌 html 语言的优势</font></td><td><font color="Hotpink">Hotpink</font></td><td bgcolor="Hotpink">rgb(240, 248, 255)</td><td bgcolor="Hotpink">rgb(240, 248, 255)</td>
+        <td bgcolor="Pink">掘金</td><td bgcolor="Pink">CSDN</td><td bgcolor="Pink">简书</td><td bgcolor="Hotpink">博客园</td>
     </tr>
     <tr>
-        <td><font color="Pink">借助 table, tr, td 等表格标签的 bgcolor 属性实现背景色设置</font></td><td><font color="pink">AntiqueWhite</font></td><td bgcolor="Pink">rgb(255, 192, 203)</td><td bgcolor="Hotpink">rgb(240, 248, 255)</td>
+        <td>
+            <font color="Hotpink">CSDN-markdown</font></td>
+        <td>
+            <font color="Hotpink">Hotpink</font></td>
+        <td bgcolor="Hotpink">rgb(240, 248, 255)</td>
+        <td bgcolor="Hotpink">rgb(240, 248, 255)</td>
     </tr>
 </table>
 
