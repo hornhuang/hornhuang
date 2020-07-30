@@ -45,9 +45,10 @@
 <a href="https://github.com/hornhuang/FIWKeepApp">
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hornhuang&repo=FIWKeepApp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-                  
 
-### |||||||| Here are some ideas to get you know me more:
+<b></b>
+
+### Here are some ideas to get you know me more:
 
 
 |  稀土掘金(juejin) | 博客园(cnblog) | CSDN | 简书 |
