@@ -10,6 +10,7 @@
         <td bgcolor="Pink">CSDN</td>
         <td bgcolor="Pink">简书</td>
         <td bgcolor="Hotpink">博客园</td>
+        <td bgcolor="Hotpink">个人博客</td>
     </tr>
     <tr>
         <td>
@@ -23,6 +24,9 @@
         </td>
         <td bgcolor="Hotpink">
             <a href="https://www.cnblogs.com/yuanhao-1999/">博客园</a>
+        </td>
+        <td bgcolor="Hotpink">
+            <a href="https://hornhuang.github.io/">个人博客</a>
         </td>
     </tr>
 </table>
