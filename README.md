@@ -1,6 +1,6 @@
 ### Hi there，Welcome to my personal world！ 👋
 
-一线Android开发，React-Native和 Flutter 均有涉猎，关注大前端，运营公众号:「技术最TOP」
+一线 「Android」「ios」「Flutter」开发，web 前端、Java 后台均有涉猎，Coding for life，Coding for the
 
 
 |  公众号   | 掘金  |CSDN |简书|
