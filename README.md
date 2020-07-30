@@ -36,8 +36,8 @@
 
 [![JayZhou's github stats](https://github-readme-stats.vercel.app/api?username=pinguo-zhouwei&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/c0xr/EyeFind">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=c0xr&repo=EyeFind&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/Super-Pentagon/p01_android_proj">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hornhuang&repo=p01_android_proj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/hornhuang/FIWKeepApp">
