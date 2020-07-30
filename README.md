@@ -6,7 +6,7 @@
 
 
 |  公众号   | 掘金  |CSDN |简书|
-|  ----  | ----  | --- | --- |
+ :-: | :-: | :-: | :-:
 | [技术最TOP]() | [点我直达](https://juejin.im/user/56949a9960b2e058a42be0ba)|[点我直达](https://blog.csdn.net/zwluoyuxi)| [点我直达](https://www.jianshu.com/u/35167a70aa39)|
 
 ### Languages and Tools:
