@@ -1,9 +1,5 @@
 ![https://img-blog.csdnimg.cn/20200730202603404.png](https://img-blog.csdnimg.cn/20200730202603404.png)
 
-### Hi there，I'm horn·huang 👋
-
-- 一线 Android/IOS/Flutter 开发，web 前端、Java 后台均有涉猎，关注我一起扬帆起航！
-
 ### Github State
 
 [![JayZhou's github stats](https://github-readme-stats.vercel.app/api?username=hornhuang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,9 +9,15 @@
     
 <a href="https://github.com/Super-Pentagon/p01_flutter_proj"> 
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Super-Pentagon&repo=p01_flutter_proj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
 </a>
 
 </a>
+
+
+### Hi there，I'm horn·huang 👋
+
+- 一线 Android/IOS/Flutter 开发，web 前端、Java 后台均有涉猎，关注我一起扬帆起航！
 
 <table style="background-color:blue; width:100%; height:100%">
     <tr>
