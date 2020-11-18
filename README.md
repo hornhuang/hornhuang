@@ -4,11 +4,11 @@
 
 [![JayZhou's github stats](https://github-readme-stats.vercel.app/api?username=hornhuang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/hornhuang/FIWKeepApp">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hornhuang&repo=FIWKeepApp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/hornhuang/android_interviews">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hornhuang&repo=android_interviews&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     
 <a href="https://github.com/Super-Pentagon/p01_flutter_proj"> 
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Super-Pentagon&repo=p01_flutter_proj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Super-Pentagon&repo=p01_flutter_proj&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 </a>
 
