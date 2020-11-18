@@ -9,11 +9,11 @@
 
 <table style="background-color:blue; width:100%; height:100%">
     <tr>
-        <td bgcolor="Pink">掘金</td>
-        <td bgcolor="Pink">CSDN</td>
-        <td bgcolor="Pink">简书</td>
-        <td bgcolor="Hotpink">博客园</td>
-        <td bgcolor="Hotpink">个人博客</td>
+        <td bgcolor="green">掘金</td>
+        <td bgcolor="green">CSDN</td>
+        <td bgcolor="green">简书</td>
+        <td bgcolor="green">博客园</td>
+        <td bgcolor="green">个人博客</td>
     </tr>
     <tr>
         <td>
