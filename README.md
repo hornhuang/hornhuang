@@ -7,8 +7,6 @@
 
 <body style="margin:0px;">
 
-BODY { MARGIN: 0px; }
-
 <table style="background-color:blue; width:100%; height:100%">
     <tr>
         <td bgcolor="Pink">掘金</td>
