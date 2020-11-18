@@ -7,7 +7,7 @@
 
 <body style="margin:0px;">
 
-<table style="background-color:blue; width:100%; height:100%">
+<table style="width:100%; height:100%">
     <tr>
         <td bgcolor="green">掘金</td>
         <td bgcolor="green">CSDN</td>
