@@ -36,6 +36,8 @@ BODY { MARGIN: 0px; }
     </tr>
 </table>
 
+</body>
+
 ### Languages and Tools:
 
 <p>  
