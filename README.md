@@ -5,6 +5,10 @@
 
 - 一线 Android/IOS/Flutter 开发，web 前端、Java 后台均有涉猎，关注我一起扬帆起航！
 
+<body style="margin:0px;">
+
+BODY { MARGIN: 0px; }
+
 <table style="background-color:blue; width:100%; height:100%">
     <tr>
         <td bgcolor="Pink">掘金</td>
