@@ -3,7 +3,7 @@
 
 ### Hi there，I'm horn·huang 👋
 
-- 一线 Android/IOS/Flutter 开发，web 前端、Java 后台均有涉猎，关注我一起扬帆起航！
+- Front-line Android/IOS/Flutter development, web front-end, Java background have dabbled, follow me to set sail together!
 
 <body style="margin:0px;">
 
