@@ -35,7 +35,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hornhuang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hornhuang&repo=android_interviews&show_owner=true)](https://github.com/hornhuang/android_interviews)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hornhuang&repo=android-SignInSystem&show_owner=true)](https://github.com/hornhuang/android-SignInSystem)
-
